@@ -14,4 +14,4 @@ while i<=100:
     else: print (i)
     i+=1
 
-#primer ejercicio
+#primer ejerciciog
