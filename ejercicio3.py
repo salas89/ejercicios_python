@@ -5,6 +5,6 @@
  *   la que el siguiente siempre es la suma de los dos anteriores.
  *   0, 1, 1, 2, 3, 5, 8, 13...
  */"""
-import math as math
+
 def Fibonacci (numero:int):
-    
+    return
