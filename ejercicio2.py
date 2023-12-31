@@ -1,5 +1,5 @@
 
-palabra1= "amor"
+palabra1= "Roma"
 palabra2 = "amor"
 
 def anagrama (a:str,b:str):
